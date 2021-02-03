@@ -46,6 +46,7 @@
                     app:layout_constraintTop_toBottomOf="@+id/linearLayout">
 
                     <include layout="@layout/opciones" />
+
                 </LinearLayout>
 
                 <LinearLayout
